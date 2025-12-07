@@ -32,5 +32,5 @@ plt.title("Customer Support Response Time Distribution by Channel")
 plt.xlabel("Support Channel")
 plt.ylabel("Response Time (hours)")
 
-plt.savefig('src/chart.png', dpi=64, bbox_inches='tight')
+plt.savefig('src/chart.png', dpi=64)
 plt.close()
